@@ -1,0 +1,9 @@
+Rencana Pembelajaran Farhana
+
+- Belajar Bootstrap (CSS Framework)
+- Belajar Programming Javascript
+- Belajar Document Object Model (DOM)
+- Latihan Membuat Website
+- Memilih Belajar:
+  - Frontend Developer
+  - Backend Developer
