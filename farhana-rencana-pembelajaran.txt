@@ -20,6 +20,12 @@ Rencana Pembelajaran Farhana
   * Array
   * Object
 
+(Contoh dari Youtube WPU)
+  * Framework Javascript
+    ^ Angular
+    ^ React
+  * PHP Frameworks
+    ^ Laravel
 
 - Belajar Document Object Model (DOM)
   * Apa itu DOM?
@@ -36,5 +42,3 @@ Rencana Pembelajaran Farhana
 - Memilih Belajar:
   - Frontend Developer
   - Backend Developer
-
-- Bekerja Remote Working
