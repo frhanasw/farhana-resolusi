@@ -23,6 +23,7 @@ Rencana Pembelajaran Farhana
 (CONTOH DARI YOUTUBE WPU *empunya dah kehabisan ide xixixi)
   * Framework Javascript
     ^ Vue
+    ^ React
   * PHP Framework
     ^ Laravel
   * Python
