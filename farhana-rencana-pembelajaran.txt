@@ -1,0 +1,38 @@
+Rencana Pembelajaran Farhana
+
+- Belajar Bootstrap (CSS Framework)
+  * Belajar Bootstrap 5
+  * Membuat website portofolio
+  * Membuat website undangan pernikahan
+
+- Belajar Programming Javascript
+  * Pendahuluan programming
+  * Apa itu programming?
+  * Apa itu programming language?
+  * Compiler vs. Interpreter
+  * Nilai & tipe data
+  * Operator
+  * Variable
+  * Control flow
+  * Looping & Conditionals
+  * Membuat game (suwit jawa)
+  * Function
+  * Array
+  * Object
+
+
+- Belajar Document Object Model (DOM)
+  * Apa itu DOM?
+  * DOM Tree
+  * DOM Selection
+  * DOM Manipulation
+  * DOM Event
+  * Membuat game (suwit jawa 2.0)
+  * DOM Traversal
+  * Event Bubbling
+
+- Latihan Membuat Website (dengan HTML, CSS, Javascript)
+
+- Memilih Belajar:
+  - Frontend Developer
+  - Backend Developer
