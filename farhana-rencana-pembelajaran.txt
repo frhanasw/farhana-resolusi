@@ -20,6 +20,12 @@ Rencana Pembelajaran Farhana
   * Array
   * Object
 
+(CONTOH DARI YOUTUBE WPU *empunya dah kehabisan ide xixixi)
+  * Framework Javascript
+    ^ Vue
+  * PHP Framework
+    ^ Laravel
+  * Python
 
 - Belajar Document Object Model (DOM)
   * Apa itu DOM?
