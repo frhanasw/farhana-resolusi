@@ -43,5 +43,3 @@ Rencana Pembelajaran Farhana
 - Memilih Belajar:
   - Frontend Developer
   - Backend Developer
-
-- Bekerja Remote Working
